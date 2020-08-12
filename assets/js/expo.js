@@ -196,7 +196,7 @@ var madnitvbangla = new Clappr.Player({source: "https://madnitv.vdn.dstreamone.n
 
 var sonic = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8", parentId: "#sonic"});
 
-var = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
+var nick_jr = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
 
 var ten2 = new Clappr.Player({source: "http://103.205.133.19/hls/ten2.m3u8", parentId: "#ten2"});
 
