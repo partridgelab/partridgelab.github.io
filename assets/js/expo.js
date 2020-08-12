@@ -196,7 +196,7 @@ var madnitvbangla = new Clappr.Player({source: "https://madnitv.vdn.dstreamone.n
 
 var sonic = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8", parentId: "#sonic"});
 
-var nick_jr = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
+var = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
 
 var ten2 = new Clappr.Player({source: "http://103.205.133.19/hls/ten2.m3u8", parentId: "#ten2"});
 
@@ -272,7 +272,7 @@ var tlc_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live
 
 var nickelodeon = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8", parentId: "#nickelodeon"});
 
-var nick_jr = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
+var nick_jr2 = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr2"});
 
 var nick_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8", parentId: "#nick_hd"});
 
