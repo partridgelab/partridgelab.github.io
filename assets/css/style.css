@@ -270,7 +270,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: IcoFont;
   padding-left: 10px;
   position: absolute;
-  right: 15px;
+  left: 15px;
 }
 
 .mobile-nav .active.drop-down > a:after {
@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 .mobile-nav-toggle {
   position: fixed;
-  right: 15px;
+  left: 15px;
   top: 22px;
   z-index: 9998;
   border: 0;
@@ -314,7 +314,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   height: 100%;
   z-index: 9997;
   top: 0;
-  left: 0;
+  right: 0;
   position: fixed;
   background: rgba(78, 64, 57, 0.9);
   overflow: hidden;
@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav-active .mobile-nav {
-  left: 0;
+  right: 0;
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
