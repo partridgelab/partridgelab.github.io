@@ -225,8 +225,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 0;
   z-index: 9999;
   overflow-y: auto;
-  left: -10px;
-  width: auto;
+  left: -260px;
+  width: 260px;
   padding-top: 18px;
   background: #4e4039;
   transition: 0.4s;
@@ -291,9 +291,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav-toggle {
-  position: absolute;
-  right: auto;
-  top: auto;
+  position: fixed;
+  right: 15px;
+  top: 22px;
   z-index: 9998;
   border: 0;
   background: none;
@@ -440,12 +440,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     transform: translateY(-10px);
   }
 }
-
-
-
-
-
-
 
 /*--------------------------------------------------------------
 # Sections General
