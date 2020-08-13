@@ -225,8 +225,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 0;
   z-index: 9999;
   overflow-y: auto;
-  left: -auto;
-  width: auto;
+  left: -100%;
+  width: 100%;
   padding-top: 18px;
   background: #4e4039;
   transition: 0.4s;
