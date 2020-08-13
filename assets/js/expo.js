@@ -60,8 +60,6 @@ var star_jalsha_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.
 
 var jalsha_movies = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8", parentId: "#jalsha_movies"});
 
-var B4Umusic = new Clappr.Player({source: "http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8", parentId: "#B4Umusic"});
-
 var B4Umusic = new Clappr.Player({source: "http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8", parentId: "#B4Umusic"});
 
 var BBCworld = new Clappr.Player({source: "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8", parentId: "#BBCworld"});
@@ -120,7 +118,7 @@ var star_bharat = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net
 
 var popular_scince = new Clappr.Player({source: "https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8", parentId: "#popular_scince"});
 
-var history_tv_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8", parentId: "#history_tv_hd"});
+var history_tv_hd2 = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8", parentId: "#history_tv_hd2"});
 
 var fox_life = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8", parentId: "#fox_life"});
 
