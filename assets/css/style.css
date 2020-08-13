@@ -218,7 +218,14 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   }
 }
 
-/* Mobile Navigation */
+
+@media screen and (max-width: 678px){
+  nav{
+    display: none;
+  }
+}
+
+/* Mobile Navigation
 .mobile-nav {
   position: fixed;
   top: 0;
@@ -333,7 +340,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
+-------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
