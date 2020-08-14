@@ -280,6 +280,8 @@ var Sony_Yay = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari
 
 var disney_xd = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8", parentId: "#disney_xd"});
 
+var BBC_CARIBES = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8", parentId: "#BBC_CARIBES"});
+
 
 var cartoon_network = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8", parentId: "#cartoon_network"});
 
