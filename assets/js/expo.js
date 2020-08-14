@@ -278,7 +278,7 @@ var Disney = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/M
 
 var Sony_Yay = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8", parentId: "#Sony_Yay"});
 
-var disney_xd = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8", parentId: "#disney_xd"});
+var disney_xd = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8", parentId: "#disney_xd"});
 
 var BBC_CARIBES = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8", parentId: "#BBC_CARIBES"});
 
