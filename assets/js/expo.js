@@ -152,8 +152,6 @@ var zing = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/z
 
 var history_tv_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8", parentId: "#history_tv_hd"});
 
-var tlc_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8", parentId: "#tlc_hd"});
-
 var mtv_beats = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8", parentId: "#mtv_beats"});
 
 var zindagitv = new Clappr.Player({source: "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8", parentId: "#zindagitv"});
@@ -242,9 +240,9 @@ var ptvsports = new Clappr.Player({source: "http://livetv.colorsbd.com:8081/hdcr
 
 var eurosports = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8", parentId: "#eurosports"});
 
-var sony_tv = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8", parentId: "#sony_tv"});
+var sony_tv = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8", parentId: "#sony_tv"});
 
-var sony_max = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8", parentId: "#sony_max"});
+var sony_max = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8", parentId: "#sony_max"});
 
 var sony_pix = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8", parentId: "#sony_pix"});
 
@@ -254,9 +252,9 @@ var star_gold_intl = new Clappr.Player({source: "https://edge01.iptv.digijadoo.n
 
 var movies_ok = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8", parentId: "#movies_ok"});
 
-var HBO = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8", parentId: "#HBO"});
+var HBO = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8", parentId: "#HBO"});
 
-var AXN  = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8", parentId: "#AXN "});
+var AXN  = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8", parentId: "#AXN "});
 
 var rishtey = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8", parentId: "#rishtey"});
 
@@ -278,7 +276,15 @@ var cartoon_network = new Clappr.Player({source: "http://iptv.kitv.live:1935/liv
 
 var Disney = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8", parentId: "#Disney"});
 
-var Sony_Yay = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8", parentId: "#Sony_Yay"});
+var Sony_Yay = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8", parentId: "#Sony_Yay"});
+
+var disney_xd = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8", parentId: "#disney_xd"});
+
+
+var cartoon_network = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8", parentId: "#cartoon_network"});
+
+var discovery_kids = new Clappr.Player({source: "https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com", parentId: "#discovery_kids"});
+
 
 var cbeebies_asia = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8", parentId: "#cbeebies_asia"});
 
