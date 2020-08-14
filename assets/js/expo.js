@@ -94,7 +94,7 @@ var kappa = new Clappr.Player({source: "http://103.199.161.254/Content/kappa/Liv
 
 var sabha_tv = new Clappr.Player({source: "https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on", parentId: "#sabha_tv"});
 
-var masthi = new Clappr.Player({source: "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8", parentId: "#masthi"});
+var masthi = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10210/default/index.m3u8", parentId: "#masthi"});
 
 var mktv = new Clappr.Player({source: "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8", parentId: "#mktv"});
 
@@ -166,11 +166,11 @@ var espn2 = new Clappr.Player({source: "https://gma2.blab.email/espn2.m3u8", par
 
 var espnews = new Clappr.Player({source: "https://gma2.blab.email/espnews.m3u8", parentId: "#espnews"});
 
-var Euronews = new Clappr.Player({source: "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8", parentId: "#Euronews"});
+var Euronews = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10211/default/index.m3u8", parentId: "#Euronews"});
 
-var F24 = new Clappr.Player({source: "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8", parentId: "#F24"});
+var F24 = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10232/default/index.m3u8", parentId: "#F24"});
 
-var cgtn = new Clappr.Player({source: "https://livedoc.cgtn.com/1000d/prog_index.m3u8", parentId: "#cgtn"});
+var cgtn = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10131/default/index.m3u8", parentId: "#cgtn"});
 
 var aajtak = new Clappr.Player({source: "http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8", parentId: "#aajtak"});
 
@@ -194,7 +194,7 @@ var sonic = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/s
 
 var nick_jr = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr"});
 
-var ten2 = new Clappr.Player({source: "http://103.205.133.19/hls/ten2.m3u8", parentId: "#ten2"});
+var ten2 = new Clappr.Player({source: "http://103.214.202.218:8081/live/ten1hd/chunks.m3u8", parentId: "#ten2"});
 
 var ten3 = new Clappr.Player({source: "http://103.205.133.19/hls/ten3.m3u8", parentId: "#ten3"});
 
@@ -228,9 +228,9 @@ var kolkata_tv = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Sha
 
 var banglatime = new Clappr.Player({source: "http://103.205.133.14/hls/banglatime.m3u8", parentId: "#banglatime"});
 
-var ss1 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8", parentId: "#ss1"});
+var ss1 = new Clappr.Player({source: "http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8", parentId: "#ss1"});
 
-var sss1 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8", parentId: "#sss1"});
+var sss1 = new Clappr.Player({source: "http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8", parentId: "#sss1"});
 
 var sss2 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8", parentId: "#sss2"});
 
@@ -306,11 +306,11 @@ var arirang = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/liv
 
 var enter_ten = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8", parentId: "#enter_ten"});
 
-var andtv = new Clappr.Player({source: "http://103.205.133.19/hls/andtv.m3u8", parentId: "#andtv"});
+var andtv = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10028/default/index.m3u8", parentId: "#andtv"});
 
 var andpicture = new Clappr.Player({source: "http://103.205.133.14/hls/andpicture.m3u8", parentId: "#andpicture"});
 
-var andflix = new Clappr.Player({source: "http://103.214.202.218:8081/live/andflix-29/chunks.m3u8", parentId: "#andflix"});
+var andflix = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10304/default/index.m3u8", parentId: "#andflix"});
 
 var ptv_global = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8", parentId: "#ptv_global"});
 
@@ -344,7 +344,7 @@ var channel_s_bd = new Clappr.Player({source: "http://23.106.120.42:1934/c2VydmV
 
 var zeeaction = new Clappr.Player({source: "http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8", parentId: "#zeeaction"});
 
-var sonyindia = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8", parentId: "#sonyindia"});
+var sonyindia = new Clappr.Player({source: "http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8", parentId: "#sonyindia"});
 
 var SABHD = new Clappr.Player({source: "https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8", parentId: "#SABHD"});
 
@@ -358,4 +358,6 @@ var ary_muzik = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/li
 
 var BFlixMovies = new Clappr.Player({source: "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8", parentId: "#BFlixMovies"});
 
-var tv = new Clappr.Player({source: "tv", parentId: "#tv"});
+var mtv = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10110/default/index.m3u8", parentId: "#mtv"});
+
+var mtv = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10110/default/index.m3u8", parentId: "#mtv"});
