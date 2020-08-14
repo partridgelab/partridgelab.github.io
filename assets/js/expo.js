@@ -220,7 +220,7 @@ var ruposhi_bangla = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.
 
 var tara_bangla = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8", parentId: "#tara_bangla"});
 
-var sony8 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8", parentId: "#sony8"});
+var sony8 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8", parentId: "#sony8"});
 
 var akash8 = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/130.m3u8", parentId: "#akash8"});
 
@@ -271,8 +271,6 @@ var nickelodeon = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net
 var nick_jr2 = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8", parentId: "#nick_jr2"});
 
 var nick_hd = new Clappr.Player({source: "https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8", parentId: "#nick_hd"});
-
-var cartoon_network = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8", parentId: "#cartoon_network"});
 
 var Disney = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8", parentId: "#Disney"});
 
@@ -346,7 +344,7 @@ var channel_s_bd = new Clappr.Player({source: "http://23.106.120.42:1934/c2VydmV
 
 var zeeaction = new Clappr.Player({source: "http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8", parentId: "#zeeaction"});
 
-var sonyindia = new Clappr.Player({source: "http://heela.ddns.net:2700/live/sonyindia/index.m3u8", parentId: "#sonyindia"});
+var sonyindia = new Clappr.Player({source: "http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8", parentId: "#sonyindia"});
 
 var SABHD = new Clappr.Player({source: "https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8", parentId: "#SABHD"});
 
