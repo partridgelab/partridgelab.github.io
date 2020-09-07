@@ -358,6 +358,6 @@ var ary_muzik = new Clappr.Player({source: "https://edge01.iptv.digijadoo.net/li
 
 var BFlixMovies = new Clappr.Player({source: "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8", parentId: "#BFlixMovies"});
 
-var mtv = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10110/default/index.m3u8", parentId: "#mtv"});
+var diney_new = new Clappr.Player({source: "http://45.249.187.238:8081/hls/live0.m3u8", parentId: "#diney_new"});
 
 var mtv = new Clappr.Player({source: "http://103.141.66.36/bpk-tv/10110/default/index.m3u8", parentId: "#mtv"});
